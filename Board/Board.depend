@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1491262847 source:d:\codeblocks\board\main.cpp
+	"headerfile.h"
+
+1491264164 source:d:\codeblocks\board\board.cpp
+	"headerfile.h"
+
+1491166192 source:d:\codeblocks\board\pawn.cpp
+	"headerfile.h"
+
+1491259684 d:\codeblocks\board\headerfile.h
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+
+1491253838 source:d:\codeblocks\board\boardcout.cpp
+	"headerfile.h"
+
