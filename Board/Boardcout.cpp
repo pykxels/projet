@@ -38,7 +38,7 @@ void Boarddisplay(Pawn** m){
     cout<<endl;
 
     ///7 rows inbetween (espaces et bottom bars)
-
+///tdtydy
     for(int i=0; i<7; i++)
     {
 
