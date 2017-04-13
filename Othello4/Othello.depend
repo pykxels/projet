@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1491412397 source:c:\users\user\desktop\nouveau dossier\othello4\board.cpp
+	"Board.h"
+
+1491408404 c:\users\user\desktop\nouveau dossier\othello4\board.h
+	"libmain.h"
+	"Pawn.h"
+
+1491414509 c:\users\user\desktop\nouveau dossier\othello4\libmain.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<time.h>
+	<string>
+	"Console.h"
+	"Board.h"
+	"Pawn.h"
+	"GestionPlateau.h"
+	"Jeu.h"
+
+1491407846 c:\users\user\desktop\nouveau dossier\othello4\console.h
+	<conio.h>
+	<windows.h>
+	<iostream>
+	"libmain.h"
+
+1491408427 c:\users\user\desktop\nouveau dossier\othello4\pawn.h
+	"libmain.h"
+	"Board.h"
+
+1491414676 source:c:\users\user\desktop\nouveau dossier\othello4\console.cpp
+	"Console.h"
+
+1491414570 c:\users\user\desktop\nouveau dossier\othello4\gestionplateau.h
+	"libmain.h"
+	"Board.h"
+
+1491413850 source:c:\users\user\desktop\nouveau dossier\othello4\gestionplateau.cpp
+	"GestionPlateau.h"
+	"libmain.h"
+
+1491416056 source:c:\users\user\desktop\nouveau dossier\othello4\main.cpp
+	"libmain.h"
+
+1491406997 source:c:\users\user\desktop\nouveau dossier\othello4\pawn.cpp
+	"Pawn.h"
+	"Board.h"
+
+1491416804 source:c:\users\user\desktop\nouveau dossier\othello4\jeu.cpp
+	"Jeu.h"
+
+1491414556 c:\users\user\desktop\nouveau dossier\othello4\jeu.h
+	"libmain.h"
+
+1491421163 source:c:\users\anaai\onedrive\asiakirjat\othello4\board.cpp
+	"Board.h"
+
+1491429937 c:\users\anaai\onedrive\asiakirjat\othello4\board.h
+	"libmain.h"
+	"Pawn.h"
+
+1491426694 c:\users\anaai\onedrive\asiakirjat\othello4\libmain.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<time.h>
+	<string>
+	<stdlib.h>
+	"Console.h"
+	"Board.h"
+	"Pawn.h"
+	"GestionPlateau.h"
+	"Jeu.h"
+
+1491404246 c:\users\anaai\onedrive\asiakirjat\othello4\console.h
+	<conio.h>
+	<windows.h>
+	<iostream>
+	"libmain.h"
+
+1491404827 c:\users\anaai\onedrive\asiakirjat\othello4\pawn.h
+	"libmain.h"
+	"Board.h"
+
+1491410970 c:\users\anaai\onedrive\asiakirjat\othello4\gestionplateau.h
+	"libmain.h"
+	"Board.h"
+
+1491410956 c:\users\anaai\onedrive\asiakirjat\othello4\jeu.h
+	"libmain.h"
+
+1491411076 source:c:\users\anaai\onedrive\asiakirjat\othello4\console.cpp
+	"Console.h"
+
+1491410250 source:c:\users\anaai\onedrive\asiakirjat\othello4\gestionplateau.cpp
+	"GestionPlateau.h"
+	"libmain.h"
+
+1491579257 source:c:\users\anaai\onedrive\asiakirjat\othello4\jeu.cpp
+	"Jeu.h"
+
+1491577759 source:c:\users\anaai\onedrive\asiakirjat\othello4\main.cpp
+	"libmain.h"
+
+1491403397 source:c:\users\anaai\onedrive\asiakirjat\othello4\pawn.cpp
+	"Pawn.h"
+	"Board.h"
+
+1491424764 source:c:\users\user\desktop\othello\othello4\board.cpp
+	"Board.h"
+
+1491433538 c:\users\user\desktop\othello\othello4\board.h
+	"libmain.h"
+	"Pawn.h"
+
+1491430296 c:\users\user\desktop\othello\othello4\libmain.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<time.h>
+	<string>
+	<stdlib.h>
+	"Console.h"
+	"Board.h"
+	"Pawn.h"
+	"GestionPlateau.h"
+	"Jeu.h"
+
+1491407848 c:\users\user\desktop\othello\othello4\console.h
+	<conio.h>
+	<windows.h>
+	<iostream>
+	"libmain.h"
+
+1491408428 c:\users\user\desktop\othello\othello4\pawn.h
+	"libmain.h"
+	"Board.h"
+
+1491414572 c:\users\user\desktop\othello\othello4\gestionplateau.h
+	"libmain.h"
+	"Board.h"
+
+1491414558 c:\users\user\desktop\othello\othello4\jeu.h
+	"libmain.h"
+
+1491414678 source:c:\users\user\desktop\othello\othello4\console.cpp
+	"Console.h"
+
+1491413852 source:c:\users\user\desktop\othello\othello4\gestionplateau.cpp
+	"GestionPlateau.h"
+	"libmain.h"
+
+1491583304 source:c:\users\user\desktop\othello\othello4\jeu.cpp
+	"Jeu.h"
+
+1491406998 source:c:\users\user\desktop\othello\othello4\pawn.cpp
+	"Pawn.h"
+	"Board.h"
+
+1492073400 source:c:\users\user\desktop\othello\othello4\main.cpp
+	"libmain.h"
+
